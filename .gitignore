@@ -1,0 +1,23 @@
+
+# Hemmeligheder og lokale indstillinger
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+
+# Editor og systemfiler
+.vscode/
+.DS_Store
+
+# Python
+__pycache__/
+.venv/
+
+# Node.js
+node_modules/
+
+# C#
+bin/
+obj/
